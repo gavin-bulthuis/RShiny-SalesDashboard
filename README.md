@@ -1,7 +1,7 @@
-## Link to the application
+## Dashboards
+
+RShiny links are currently **PRIVATE** to protect the business data, but can be viewed upon request.
 
 Profit and Sales Dashboard
-https://gavinbulthuis.shinyapps.io/baked/
 
 Interactive Live Sales Dashboard
-https://gavinbulthuis.shinyapps.io/bakedGFLiveSales/
